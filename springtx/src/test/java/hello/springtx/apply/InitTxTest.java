@@ -14,7 +14,7 @@ import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
 
 @SpringBootTest
-public class InitTxTest {
+class InitTxTest {
 
 	@Autowired
 	Hello hello;
